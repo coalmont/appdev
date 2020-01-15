@@ -1,13 +1,13 @@
 <p>This is the first sentence. <i>The second sentence is italicized.</i> <b>The third sentence is in bold.</b> This is the first paragraph.</p>
 <p>This is the second paragraph. Part of this paragraph is a list of comma-separated values: Alec, Jairson, Norman, Nick.</p>
-<p>This is the third paragraph. Part of this paragraph is an <b>ordered list</b> of names.</p>
+<p>This is the third paragraph. Part of this paragraph is an <i><b>ordered list</b></i> of names.</p>
 <ol>
  	<li>Alec Mustafayev</li>
  	<li>Jairson Ascencao</li>
  	<li>Norman D. Baker</li>
  	<li>Nickantony Quach</li>
 </ol>
-<p>This is the third paragraph. Part of this paragraph is an <b>unordered list</b> of names.</p>
+<p>This is the third paragraph. Part of this paragraph is an <i><b>unordered list</b></i> of names.</p>
 <ul>
  	<li>Alec Mustafayev</li>
  	<li>Jairson Ascencao</li>
